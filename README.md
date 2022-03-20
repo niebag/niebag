@@ -1,6 +1,6 @@
 <p align="center"><img id="back-to-top" src="https://i.imgur.com/DyTG7XJ.gif" alt="Programming gif" height="300"></p>
 <h1 align="center">Hi <img src="https://i.imgur.com/oEMpEr5.gif" alt="Waving hand" height="30">, I'm Niels</h1>
-<h3 align="center">A passionate junior full stack developer</h3>
+<p align="center"><b>A passionate junior full stack developer</b></p>
 
 <p align="center">
     <a href="https://github.com/Nieloss">
@@ -12,7 +12,6 @@
 # 🔗 Navigate through my profile 
 
 <a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
-- [🔗 Navigate through my profile](#-navigate-through-my-profile)
 - [🙋‍♂️ Connect with me](#️-connect-with-me)
 - [💻 Tools I use](#-tools-i-use)
 - [📚 Skills and experience](#-skills-and-experience)
