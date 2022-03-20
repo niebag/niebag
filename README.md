@@ -12,17 +12,10 @@
 # 🔗 Navigate through my profile 
 
 <a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
-- [� Navigate through my profile](#-navigate-through-my-profile)
+- [🔗 Navigate through my profile](#-navigate-through-my-profile)
 - [🙋‍♂️ Connect with me](#️-connect-with-me)
-    - [🎵 Or check out my music taste](#-or-check-out-my-music-taste)
 - [💻 Tools I use](#-tools-i-use)
-    - [Coding](#coding)
-    - [Design](#design)
 - [📚 Skills and experience](#-skills-and-experience)
-    - [Database](#database)
-    - [Frameworks](#frameworks)
-    - [Languages](#languages)
-    - [Server](#server)
 - [📊 GitHub stats](#-github-stats)
 
 <br/><br/><br/>
