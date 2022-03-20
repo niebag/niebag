@@ -10,12 +10,12 @@
         <img src="https://wakatime.com/badge/user/9965fffd-9734-4f9e-ab7a-4a4259fd2430.svg?style=for-the-badge" alt="Total time coded since Jan 23 2022" />
     </a>
 </p>
-
+<br/><br/>
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff00&qColor=%2300b2df&aColor=%23ffffff&codeColor=%2300b2df&textColor=%23ffffff&borderColor=%2300b2df" alt="Random joke"> 
 </p>
 
-<br/><br/>
+<br/>
 # 🔗 Navigate through my profile 
 
 <a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
