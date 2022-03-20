@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/Nieloss">
-        <img src="https://komarev.com/ghpvc/?username=Nieloss&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=blueviolet" alt="Profile views badge" title="Profile visitors">
+        <img src="https://komarev.com/ghpvc/?username=Nieloss&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=ff0000" alt="Profile views badge" title="Profile visitors">
     </a>
     <a href="https://wakatime.com/@9965fffd-9734-4f9e-ab7a-4a4259fd2430">
         <img src="https://wakatime.com/badge/user/9965fffd-9734-4f9e-ab7a-4a4259fd2430.svg?style=for-the-badge" alt="Total time coded since Jan 23 2022" />
@@ -14,7 +14,7 @@
 <br/>
 <h4 align="center">Random programming joke</h4>
 <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&qColor=%2300b2df&aColor=%23444e59&codeColor=%2300b2df&textColor=%23444e59&borderColor=%2300b2df" alt="Random joke"> 
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&qColor=%23444e59&aColor=%238a2be2&codeColor=%238a2be2&textColor=%23444e59&borderColor=%238a2be2" alt="Random joke"> 
 </p>
 
 # 🔗 Navigate through my profile 
