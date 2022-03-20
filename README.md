@@ -43,7 +43,7 @@
 ### Coding
 
 [![Visual Studio Code badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")](https://code.visualstudio.com/) 
-[![Visual Studio Code badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E "Prettier")](https://code.visualstudio.com/) 
+[![Prettier badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E "Prettier")](https://prettier.io/) 
 [![GitHub badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "Connect with me on GitHub")](https://github.com/Nieloss)
 
 ### Design
