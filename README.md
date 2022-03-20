@@ -11,6 +11,10 @@
     </a>
 </p>
 
+<p align="center">
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff00&qColor=%2300b2df&aColor=%23ffffff&codeColor=%2300b2df&textColor=%23ffffff&borderColor=%2300b2df" alt="Random joke"> 
+</p>
+
 <br/><br/>
 # 🔗 Navigate through my profile 
 
