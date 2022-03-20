@@ -10,15 +10,16 @@
         <img src="https://wakatime.com/badge/user/9965fffd-9734-4f9e-ab7a-4a4259fd2430.svg?style=for-the-badge" alt="Total time coded since Jan 23 2022" />
     </a>
 </p>
-<br/><br/>
+
+<br/>
+<h4 align="center">Random programming joke</h4>
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff00&qColor=%2300b2df&aColor=%23ffffff&codeColor=%2300b2df&textColor=%23ffffff&borderColor=%2300b2df" alt="Random joke"> 
 </p>
 
-<br/>
 # 🔗 Navigate through my profile 
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-e34f26?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 - [🙋‍♂️ Connect with me](#️-connect-with-me)
 - [💻 Tools I use](#-tools-i-use)
 - [📚 Skills and experience](#-skills-and-experience)
@@ -27,7 +28,7 @@
 <br/><br/><br/>
 # 🙋‍♂️ Connect with me
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-e34f26?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 [![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Connect with me on Gmail")](https://mail.google.com/mail/?view=cm&source=mailto&to=nielsbaggerman80@gmail.com)
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Connect with me on Instagram")](https://www.instagram.com/nnieellss/)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Connect with me on LinkedIn")](https://www.linkedin.com/in/niels-baggerman/)
@@ -41,7 +42,7 @@
 <br/><br/>
 # 💻 Tools I use
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-e34f26?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 
 ### Coding
 
@@ -57,7 +58,7 @@
 <br/><br/>
 # 📚 Skills and experience
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-e34f26?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 
 ### Database
 
@@ -87,13 +88,13 @@
 <br/><br/>
 # 📊 GitHub stats
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-e34f26?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 
 ![Niels Baggerman's GitHub stats](https://github-readme-stats-nieloss.vercel.app/api?username=Nieloss&count_private=true&show_icons=true&hide=stars,prs,issues&hide_title=true&icon_color=00b2df&title_color=00b2df)
 
 <br/><br/>
 # 📊 WakaTime stats
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-e34f26?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 
 ![Niels Baggerman's WakaTime stats](https://github-readme-stats-nieloss.vercel.app/api/wakatime?username=nieloss&title_color=00b2df&hide=markdown&hide_title=true)
