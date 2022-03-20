@@ -12,7 +12,7 @@
 </p>
 
 <br/>
-<h4 align="center">Random programming joke</h4>
+<p align="center"><b>Random programming joke</b></p>
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&qColor=%23444e59&aColor=%238a2be2&codeColor=%238a2be2&textColor=%23444e59&borderColor=%238a2be2" alt="Random joke"> 
 </p>
