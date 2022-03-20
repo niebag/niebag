@@ -4,23 +4,31 @@
 
 <p align="center">
     <a href="https://github.com/Nieloss">
-        <img src="https://komarev.com/ghpvc/?username=Nieloss&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=blueviolet" alt="Profile views badge" title="Profile visitors">
+        <img src="https://komarev.com/ghpvc/?username=Nieloss&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=00b2df" alt="Profile views badge" title="Profile visitors">
     </a>
 </p>
 
 <br/><br/>
 # 🔗 Navigate through my profile 
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-8a2be2?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
-- [🙋‍♂️ Connect with me](#%EF%B8%8F-connect-with-me)
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+- [� Navigate through my profile](#-navigate-through-my-profile)
+- [🙋‍♂️ Connect with me](#️-connect-with-me)
+    - [🎵 Or check out my music taste](#-or-check-out-my-music-taste)
 - [💻 Tools I use](#-tools-i-use)
+    - [Coding](#coding)
+    - [Design](#design)
 - [📚 Skills and experience](#-skills-and-experience)
+    - [Database](#database)
+    - [Frameworks](#frameworks)
+    - [Languages](#languages)
+    - [Server](#server)
 - [📊 GitHub stats](#-github-stats)
 
 <br/><br/><br/>
 # 🙋‍♂️ Connect with me
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-8a2be2?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 [![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Connect with me on Gmail")](https://mail.google.com/mail/?view=cm&source=mailto&to=nielsbaggerman80@gmail.com)
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Connect with me on Instagram")](https://www.instagram.com/nnieellss/)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Connect with me on LinkedIn")](https://www.linkedin.com/in/niels-baggerman/)
@@ -34,7 +42,7 @@
 <br/><br/>
 # 💻 Tools I use
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-8a2be2?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 
 ### Coding
 
@@ -50,7 +58,7 @@
 <br/><br/>
 # 📚 Skills and experience
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-8a2be2?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 
 ### Database
 
@@ -80,4 +88,4 @@
 <br/><br/>
 # 📊 GitHub stats
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-8a2be2?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
