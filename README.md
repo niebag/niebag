@@ -14,7 +14,7 @@
 <br/>
 <h4 align="center">Random programming joke</h4>
 <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&qColor=%2300b2df&aColor=%23ffffff&codeColor=%2300b2df&textColor=%23ffffff&borderColor=%2300b2df" alt="Random joke"> 
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&qColor=%2300b2df&aColor=%23444e59&codeColor=%2300b2df&textColor=%23444e59&borderColor=%2300b2df" alt="Random joke"> 
 </p>
 
 # 🔗 Navigate through my profile 
