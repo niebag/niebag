@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/Nieloss">
-        <img src="https://komarev.com/ghpvc/?username=Nieloss&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=00b2df" alt="Profile views badge" title="Profile visitors">
+        <img src="https://komarev.com/ghpvc/?username=Nieloss&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=blueviolet" alt="Profile views badge" title="Profile visitors">
     </a>
     <a href="https://wakatime.com/@9965fffd-9734-4f9e-ab7a-4a4259fd2430">
         <img src="https://wakatime.com/badge/user/9965fffd-9734-4f9e-ab7a-4a4259fd2430.svg?style=for-the-badge" alt="Total time coded since Jan 23 2022" />
