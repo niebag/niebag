@@ -6,6 +6,9 @@
     <a href="https://github.com/Nieloss">
         <img src="https://komarev.com/ghpvc/?username=Nieloss&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=00b2df" alt="Profile views badge" title="Profile visitors">
     </a>
+    <a href="https://wakatime.com/@9965fffd-9734-4f9e-ab7a-4a4259fd2430">
+        <img src="https://wakatime.com/badge/user/9965fffd-9734-4f9e-ab7a-4a4259fd2430.svg?style=for-the-badge" alt="Total time coded since Jan 23 2022" />
+    </a>
 </p>
 
 <br/><br/>
@@ -16,7 +19,7 @@
 - [💻 Tools I use](#-tools-i-use)
 - [📚 Skills and experience](#-skills-and-experience)
 - [📊 GitHub stats](#-github-stats)
-
+- [📊 WakaTime stats](#-wakatime-stats)
 <br/><br/><br/>
 # 🙋‍♂️ Connect with me
 
@@ -81,3 +84,12 @@
 # 📊 GitHub stats
 
 <a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+
+![Niels Baggerman's GitHub stats](https://github-readme-stats-nieloss.vercel.app/api?username=Nieloss&count_private=true&show_icons=true&hide=stars,prs,issues&hide_title=true&icon_color=00b2df&title_color=00b2df)
+
+<br/><br/>
+# 📊 WakaTime stats
+
+<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-00b2df?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
+
+![Niels Baggerman's WakaTime stats](https://github-readme-stats-nieloss.vercel.app/api/wakatime?username=nieloss&title_color=00b2df&hide=markdown&hide_title=true)
