@@ -3,8 +3,7 @@
 <p align="center"><b>A passionate junior full stack developer</b></p>
 
 <p align="center">
-    <a href="https://github.com/Nieloss">
-        <img src="https://komarev.com/ghpvc/?username=Nieloss&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=ff0000" alt="Profile views badge" title="Profile visitors">
+    <img src="https://komarev.com/ghpvc/?username=Nieloss&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=ff0000" alt="Profile views badge" 
     </a>
     <a href="https://wakatime.com/@9965fffd-9734-4f9e-ab7a-4a4259fd2430">
         <img src="https://wakatime.com/badge/user/9965fffd-9734-4f9e-ab7a-4a4259fd2430.svg?style=for-the-badge" alt="Total time coded since Jan 23 2022" />
@@ -14,12 +13,11 @@
 <br/>
 <p align="center"><b>Random programming joke</b></p>
 <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&qColor=%23444e59&aColor=%238a2be2&codeColor=%238a2be2&textColor=%23444e59&borderColor=%238a2be2" alt="Random joke"> 
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&qColor=%23444e59&aColor=%23444e59&codeColor=%238a2be2&textColor=%23444e59&borderColor=%238a2be2" alt="Random joke"> 
 </p>
 
 # 🔗 Navigate through my profile 
 
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-e34f26?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 - [🙋‍♂️ Connect with me](#️-connect-with-me)
 - [💻 Tools I use](#-tools-i-use)
 - [📚 Skills and experience](#-skills-and-experience)
@@ -41,8 +39,6 @@
 
 <br/><br/>
 # 💻 Tools I use
-
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-e34f26?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 
 ### Coding
 
@@ -87,8 +83,6 @@
 
 <br/><br/>
 # 📊 GitHub stats
-
-<a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-e34f26?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 
 ![Niels Baggerman's GitHub stats](https://github-readme-stats-nieloss.vercel.app/api?username=Nieloss&count_private=true&show_icons=true&hide=stars,prs,issues&hide_title=true&icon_color=00b2df&title_color=00b2df&hide_border=true)
 
