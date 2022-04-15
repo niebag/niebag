@@ -84,7 +84,7 @@
 <br/><br/>
 # 📊 GitHub stats
 
-![Niels Baggerman's GitHub stats](https://github-readme-stats-nieloss.vercel.app/api?username=Nieloss&count_private=true&show_icons=true&hide=stars,prs,issues&hide_title=true&icon_color=00b2df&title_color=00b2df&hide_border=true)
+![Niels Baggerman's GitHub stats](https://github-readme-stats-nieloss.vercel.app/api?username=Nieloss&count_private=true&show_icons=true&hide=stars,issues&hide_title=true&icon_color=00b2df&title_color=00b2df&hide_border=true)
 
 <br/><br/>
 # 📊 WakaTime stats
