@@ -3,7 +3,7 @@
 <p align="center"><b>A passionate junior full stack developer</b></p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Nieloss&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=ff0000" alt="Profile views badge" 
+    <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=ff0000" alt="Profile views badge" 
     </a>
     <a href="https://wakatime.com/@9965fffd-9734-4f9e-ab7a-4a4259fd2430">
         <img src="https://wakatime.com/badge/user/9965fffd-9734-4f9e-ab7a-4a4259fd2430.svg?style=for-the-badge" alt="Total time coded since Jan 23 2022" title="Total time coded since Jan 23 2022" />
@@ -44,7 +44,7 @@
 
 [![Visual Studio Code badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")](https://code.visualstudio.com/) 
 [![Prettier badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E "Prettier")](https://prettier.io/) 
-[![GitHub badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "Connect with me on GitHub")](https://github.com/Nieloss)
+[![GitHub badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "Connect with me on GitHub")](https://github.com/nielsbaggerman)
 
 ### Design
 
@@ -84,7 +84,7 @@
 <br/><br/>
 # 📊 GitHub stats
 
-![Niels Baggerman's GitHub stats](https://github-readme-stats-nieloss.vercel.app/api?username=Nieloss&count_private=true&show_icons=true&hide=stars,issues,prs&hide_title=true&icon_color=00b2df&title_color=00b2df&hide_border=true)
+![Niels Baggerman's GitHub stats](https://github-readme-stats-nieloss.vercel.app/api?username=nielsbaggerman&count_private=true&show_icons=true&hide=stars,issues,prs&hide_title=true&icon_color=00b2df&title_color=00b2df&hide_border=true)
 
 <br/><br/>
 # 📊 WakaTime stats
