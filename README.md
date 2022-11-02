@@ -3,17 +3,11 @@
 <p align="center"><b>A passionate junior full stack developer</b></p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;style=for-the-badge&amp;label=profile+visitors&amp;color=ff0000" alt="Profile views badge" 
+    <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=profile+visitors&amp;color=ff0000" alt="Profile views badge" 
     </a>
     <a href="https://wakatime.com/@9965fffd-9734-4f9e-ab7a-4a4259fd2430">
-        <img src="https://wakatime.com/badge/user/9965fffd-9734-4f9e-ab7a-4a4259fd2430.svg?style=for-the-badge" alt="Total time coded since Jan 23 2022" title="Total time coded since Jan 23 2022" />
+        <img src="https://wakatime.com/badge/user/9965fffd-9734-4f9e-ab7a-4a4259fd2430.svg" alt="Total time coded since Jan 23 2022" title="Total time coded since Jan 23 2022" />
     </a>
-</p>
-
-<br/>
-<p align="center"><b>Random programming joke</b></p>
-<p align="center">
-    <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&qColor=%23444e59&aColor=%23444e59&codeColor=%238a2be2&textColor=%23444e59&borderColor=%238a2be2" alt="Random joke"> 
 </p>
 
 <p align="center">
