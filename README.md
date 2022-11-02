@@ -16,6 +16,11 @@
     <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&qColor=%23444e59&aColor=%23444e59&codeColor=%238a2be2&textColor=%23444e59&borderColor=%238a2be2" alt="Random joke"> 
 </p>
 
+<p align="center">
+    <img src="https://github.com/nielsbaggerman/nielsbaggerman/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light">
+    <img src="https://github.com/nielsbaggerman/nielsbaggerman/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark">
+</p>
+
 # 🔗 Navigate through my profile 
 
 - [🙋‍♂️ Connect with me](#️-connect-with-me)
