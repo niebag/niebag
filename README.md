@@ -83,11 +83,11 @@
 <br/><br/>
 # 📊 GitHub stats
 
-![Niels Baggerman's GitHub stats](https://github-readme-stats-nieloss.vercel.app/api?username=nielsbaggerman&count_private=true&show_icons=true&hide=stars,issues,prs&hide_title=true&icon_color=00b2df&title_color=00b2df&hide_border=true)
+![Niels Baggerman's GitHub stats](https://github-readme-stats-nieloss.vercel.app/api?username=nielsbaggerman&count_private=true&show_icons=true&hide=stars,issues,prs&hide_title=true&icon_color=000&title_color=000&hide_border=true)
 
 <br/><br/>
 # 📊 WakaTime stats
 
 <a href="#back-to-top"><img src="https://img.shields.io/badge/Back_to_top-⌃-e34f26?style=for-the-badge&logo=%2326689A" alt="Back to top" title="Back to top" height="20" align="right"></a>
 
-![Niels Baggerman's WakaTime stats](https://github-readme-stats-nieloss.vercel.app/api/wakatime?username=nieloss&title_color=00b2df&hide_title=true&hide_border=true)
+![Niels Baggerman's WakaTime stats](https://github-readme-stats-nieloss.vercel.app/api/wakatime?username=nieloss&title_color=00b2df&hide_title=true&hide_border=true&langs_count=15)
