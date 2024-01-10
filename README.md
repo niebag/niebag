@@ -1,4 +1,8 @@
 <p align="center">
+    <img src="assets/img/banner.png" alt="Notive | ◗ Resolph">
+</p>
+
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=profile+visitors&amp;color=ff0000" alt="Profile views badge" 
     </a>
     <a href="https://wakatime.com/@9965fffd-9734-4f9e-ab7a-4a4259fd2430">
