@@ -26,7 +26,7 @@ Driven by a passion for front-end development 💻, I dedicate each day to craft
     <img src="https://wakatime.com/badge/user/9965fffd-9734-4f9e-ab7a-4a4259fd2430.svg" alt="Total time coded since Jan 23 2022" title="Total time coded since Jan 23 2022" />
 </a>
     
-![niebag's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niebag)]
+![niebag's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niebag)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=niebag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
