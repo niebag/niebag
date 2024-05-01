@@ -17,7 +17,7 @@ Driven by a passion for front-end development 💻, I dedicate each day to craft
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=niebag&rank_icon=github&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)
+![](https://github-readme-stats.vercel.app/api?username=niebag&rank_icon=github&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niebag&theme=city_light&hide_border=false)
 
 # WakaTime Stats:
