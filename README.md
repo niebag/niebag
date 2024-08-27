@@ -3,13 +3,15 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C119%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C121%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 47.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 271 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,10 +44,14 @@ Sunday                   50 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 26 mins       ███████████████████░░░░░░   75.20 % 
+.env file                21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
