@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C136%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C136%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20lines%20of%20code-blue)
 
@@ -42,10 +42,10 @@ Sunday                   50 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
