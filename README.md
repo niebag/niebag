@@ -11,8 +11,6 @@
 
 > 📦 47.5 kB Used in GitHub's Storage 
  > 
-> 🏆 298 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -52,7 +50,6 @@ JavaScript               7 mins              █░░░░░░░░░░�
 
 🔥 Editors: 
 WebStorm                 3 hrs 1 min         █████████████████████████   100.00 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
