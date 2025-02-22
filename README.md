@@ -11,8 +11,6 @@
 
 > 📦 47.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -44,10 +42,12 @@ Sunday                   50 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              ████████████████░░░░░░░░░   64.13 % 
+Python                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+.env file                0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
