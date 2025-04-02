@@ -3,15 +3,13 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C261%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 47.5 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,13 +42,11 @@ Sunday                   50 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     6 mins              ████████████████████████░   97.24 % 
-PHP                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+PHP                      0 secs              █████████████████████░░░░   83.34 % 
+JSON                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 
 🔥 Editors: 
-Android Studio           6 mins              ████████████████████████░   97.24 % 
-PhpStorm                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+PhpStorm                 0 secs              █████████████████████████   100.00 % 
 ```
 
 
