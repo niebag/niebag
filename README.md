@@ -44,10 +44,10 @@ Sunday                   89 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
