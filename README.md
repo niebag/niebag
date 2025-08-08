@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C353%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C355%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.8%20million%20lines%20of%20code-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 48.5 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,12 +44,12 @@ Sunday                   89 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 3 mins        ███████████████░░░░░░░░░░   59.48 % 
-HTML                     1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   34.60 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Python                   4 hrs 50 mins       ███████████████████░░░░░░   77.47 % 
+HTML                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 27 mins       █████████████████████████   100.00 % 
+Cursor                   6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
