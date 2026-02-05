@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.01%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,11 +44,11 @@ Sunday                   143 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 7 mins         ███████████░░░░░░░░░░░░░░   42.11 % 
+TypeScript               1 hr 7 mins         ███████████░░░░░░░░░░░░░░   42.09 % 
 Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-JavaScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Terraform                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+JavaScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Terraform                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 Editors: 
 Cursor                   2 hrs 40 mins       █████████████████████████   100.00 % 
