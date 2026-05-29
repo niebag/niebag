@@ -3,6 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C407%20hrs%2014%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -17,5 +19,36 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4063 commits        █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌆 Daytime                6228 commits        ██████████████░░░░░░░░░░░   56.55 % 
+🌃 Evening                428 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+🌙 Night                  295 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1815 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Tuesday                  2425 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Wednesday                1852 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Thursday                 1726 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Friday                   3029 commits        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Saturday                 21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Sunday                   146 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
