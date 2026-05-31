@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C405%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C407%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.23%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,10 +44,17 @@ Sunday                   146 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      4 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.03 % 
+Markdown                 3 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.09 % 
+TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Kotlin                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   8 hrs 18 mins       ████████████████████░░░░░   81.63 % 
+Codex CLI                49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Claude Code              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 
 
