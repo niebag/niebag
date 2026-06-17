@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C423%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C424%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.24%20million%20lines%20of%20code-blue?style=flat)
 
@@ -11,13 +11,13 @@
 
 > 📦 49.7 kB Used in GitHub's Storage 
  > 
-> 🏆 72 Contributions in the Year 2026
+> 🏆 73 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 7 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -44,10 +44,13 @@ Sunday                   146 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 2 mins         ████████████████████░░░░░   79.35 % 
+Other                    16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 3 mins         ████████████████████░░░░░   80.95 % 
+Codex CLI                14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
