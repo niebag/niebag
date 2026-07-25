@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C524%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C525%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,16 +44,16 @@ Sunday                   146 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-HTML                     3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Markdown                 3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Cheetah                  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Other                    6 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
+HTML                     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Markdown                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Cheetah                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 4 mins       █████████████████░░░░░░░░   66.82 % 
-Codex CLI                2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-VS Code                  2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Claude Code              13 hrs 45 mins      █████████████████░░░░░░░░   69.97 % 
+Codex CLI                3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+VS Code                  2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 ```
 
 
