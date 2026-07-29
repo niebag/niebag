@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C496%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C497%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,42 +46,43 @@ Sunday                   146 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Other                    3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Cheetah                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Markdown                 4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.81 % 
+Other                    3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Swift                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Bash                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 2 mins       █████████████████░░░░░░░░   69.21 % 
-Codex CLI                4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Claude Code              8 hrs 15 mins       ████████████████░░░░░░░░░   63.99 % 
+Codex CLI                4 hrs               ████████░░░░░░░░░░░░░░░░░   31.12 % 
+VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 43 mins (98.57%)
+⏱ AI Coding Time: 12 hrs 36 mins (97.69%)
 
-✍️ 10,155 lines written by AI, 59 lines written by hand (99.42% AI-written)
+✍️ 13,775 lines written by AI, 4 lines written by hand (99.97% AI-written)
 
-🔤 134,350,254 Input Tokens, 825,334 Output Tokens
+🔤 204,296,768 Input Tokens, 1,131,521 Output Tokens
 
-💵 $630.87 Estimated AI Cost This Week
+💵 $880.10 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 426 AI Prompts
+🧠 35 AI Sessions, 554 AI Prompts
 
-Opus                     6,597 lines         ███████████████░░░░░░░░░░   58.54 % 
-GPT                      3,249 lines         ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-Sonnet                   1,423 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     6,768 lines         ███████████░░░░░░░░░░░░░░   43.29 % 
+GPT                      5,825 lines         █████████░░░░░░░░░░░░░░░░   37.26 % 
+Sonnet                   2,434 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Codex-Cli                608 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.42% of written lines came from AI
-📄 Detailed Prompter — average 810 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 1.74% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 467 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 
