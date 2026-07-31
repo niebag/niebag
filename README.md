@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C500%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C505%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,43 +46,43 @@ Sunday                   146 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.36 % 
-Other                    3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Swift                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Markdown                 9 hrs 42 mins       ███████████████░░░░░░░░░░   60.15 % 
+Other                    3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Terraform                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 24 mins       ████████████████░░░░░░░░░   63.74 % 
-Codex CLI                4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-VS Code                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Claude Code              11 hrs 20 mins      ██████████████████░░░░░░░   70.34 % 
+Codex CLI                2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+VS Code                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 22 mins (97.35%)
+⏱ AI Coding Time: 15 hrs 33 mins (96.4%)
 
-✍️ 9,895 lines written by AI, 20 lines written by hand (99.8% AI-written)
+✍️ 8,949 lines written by AI, 21 lines written by hand (99.77% AI-written)
 
-🔤 232,389,744 Input Tokens, 1,057,766 Output Tokens
+🔤 214,959,803 Input Tokens, 765,533 Output Tokens
 
-💵 $907.49 Estimated AI Cost This Week
+💵 $839.80 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 532 AI Prompts
+🧠 27 AI Sessions, 389 AI Prompts
 
-GPT                      5,825 lines         ████████████░░░░░░░░░░░░░   49.63 % 
-Sonnet                   2,737 lines         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Opus                     2,566 lines         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Codex-Cli                608 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      5,394 lines         ███████████████░░░░░░░░░░   58.91 % 
+Opus                     2,078 lines         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Sonnet                   1,077 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Codex-Cli                608 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📝 Concise Prompter — average 364 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🤖 AI-Driven — 99.77% of written lines came from AI
+📝 Concise Prompter — average 495 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.34% of changed lines were hand-edited
 ```
 
 
