@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C505%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C509%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,43 +46,43 @@ Sunday                   146 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 42 mins       ███████████████░░░░░░░░░░   60.15 % 
-Other                    3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Terraform                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Markdown                 12 hrs 29 mins      ███████████████████░░░░░░   76.76 % 
+Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Swift                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 20 mins      ██████████████████░░░░░░░   70.34 % 
-Codex CLI                2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-VS Code                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Claude Code              10 hrs 41 mins      ████████████████░░░░░░░░░   65.65 % 
+Codex CLI                3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+VS Code                  2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 33 mins (96.4%)
+⏱ AI Coding Time: 15 hrs 41 mins (96.38%)
 
-✍️ 8,949 lines written by AI, 21 lines written by hand (99.77% AI-written)
+✍️ 9,839 lines written by AI, 24 lines written by hand (99.76% AI-written)
 
-🔤 214,959,803 Input Tokens, 765,533 Output Tokens
+🔤 222,417,655 Input Tokens, 778,344 Output Tokens
 
-💵 $839.80 Estimated AI Cost This Week
+💵 $915.42 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 389 AI Prompts
+🧠 30 AI Sessions, 345 AI Prompts
 
-GPT                      5,394 lines         ███████████████░░░░░░░░░░   58.91 % 
-Opus                     2,078 lines         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Sonnet                   1,077 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Codex-Cli                608 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+GPT                      5,374 lines         █████████████░░░░░░░░░░░░   52.66 % 
+Opus                     2,455 lines         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Sonnet                   1,769 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Codex-Cli                608 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.77% of written lines came from AI
-📝 Concise Prompter — average 495 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.34% of changed lines were hand-edited
+🤖 AI-Driven — 99.76% of written lines came from AI
+📝 Concise Prompter — average 466 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.87% of changed lines were hand-edited
 ```
 
 
