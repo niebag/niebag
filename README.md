@@ -46,41 +46,41 @@ Sunday                   90 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
-TypeScript               4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Other                    2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-tmux                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Markdown                 8 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.99 % 
+TypeScript               4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+tmux                     2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+JSON                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Codex CLI                14 hrs 4 mins       ████████████████░░░░░░░░░   64.68 % 
-Claude Code              6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-VS Code                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Codex CLI                14 hrs 47 mins      ███████████████████░░░░░░   75.61 % 
+Claude Code              4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 32 mins (99.06%)
+⏱ AI Coding Time: 19 hrs 20 mins (98.96%)
 
-✍️ 6,908 lines written by AI, 3 lines written by hand (99.96% AI-written)
+✍️ 9,469 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 339,972,846 Input Tokens, 1,709,056 Output Tokens
+🔤 332,063,375 Input Tokens, 1,741,959 Output Tokens
 
-💵 $1916.04 Estimated AI Cost This Week
+💵 $1089.47 Estimated AI Cost This Week
 
-🧠 102 AI Sessions, 670 AI Prompts
+🧠 96 AI Sessions, 612 AI Prompts
 
-GPT                      6,464 lines         ██████████████████░░░░░░░   73.84 % 
-Sonnet                   1,584 lines         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Opus                     706 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+GPT                      9,920 lines         ████████████████████████░   94.14 % 
+Sonnet                   617 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 609 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 680 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
