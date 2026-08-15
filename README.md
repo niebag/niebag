@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C536%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C536%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,39 +46,34 @@ Sunday                   90 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-tmux                     1 hr 27 mins        ████████████████░░░░░░░░░   65.29 % 
-Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+JSON                     37 mins             ████████████████████░░░░░   78.99 % 
+CSS                      10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 41 mins        ███████████████████░░░░░░   75.96 % 
-Claude Code              30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Codex CLI                47 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 13 mins (99.76%)
+⏱ AI Coding Time: 47 mins (100.0%)
 
-✍️ 110 lines written by AI, 1 lines written by hand (99.1% AI-written)
+✍️ 473 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 19,114,173 Input Tokens, 190,053 Output Tokens
+🔤 152,624 Input Tokens, 15,499 Output Tokens
 
-💵 $45.81 Estimated AI Cost This Week
+💵 $21.50 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 95 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-GPT                      118 lines           █████████████████████████   99.16 % 
-Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      496 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.1% of written lines came from AI
-📝 Concise Prompter — average 316 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.83% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 28 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
