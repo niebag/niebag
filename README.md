@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=nielsbaggerman&amp;label=Profile+Views" alt="Profile Views Badge" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C538%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C539%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,37 +46,37 @@ Sunday                   91 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     43 mins             ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-CSS                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Astro                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Markdown                 1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   33.00 % 
+Astro                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+JSON                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🔥 Editors: 
-Codex CLI                2 hrs 39 mins       ████████████████████████░   97.37 % 
-Codex Vscode             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Codex CLI                3 hrs 22 mins       █████████████████████░░░░   82.92 % 
+Codex Vscode             41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 44 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 3 mins (100.0%)
 
-✍️ 1,265 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,833 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,621,013 Input Tokens, 118,598 Output Tokens
+🔤 2,725,368 Input Tokens, 201,430 Output Tokens
 
-💵 $43.90 Estimated AI Cost This Week
+💵 $57.06 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 38 AI Prompts
+🧠 19 AI Sessions, 68 AI Prompts
 
-GPT                      1,288 lines         █████████████████████████   100.00 % 
+GPT                      1,906 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,283 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 7,443 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
