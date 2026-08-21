@@ -69,13 +69,13 @@ VS Code                  0 secs              ░░░░░░░░░░░�
 
 💵 $57.06 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 68 AI Prompts
+🧠 18 AI Sessions, 67 AI Prompts
 
 GPT                      1,906 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,443 characters per prompt
+📚 Verbose Prompter — average 7,554 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
