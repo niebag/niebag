@@ -46,43 +46,43 @@ Sunday                   91 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Markdown                 3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Kotlin                   3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-PHP                      2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-JavaScript               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Other                    3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Markdown                 3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Kotlin                   3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+PHP                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Astro                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 36 mins      ████████████████░░░░░░░░░   65.14 % 
-Codex Vscode             4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Codex CLI                2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Hermes                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              12 hrs 16 mins      ████████████████████░░░░░   78.02 % 
+Codex Vscode             1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Codex CLI                1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Hermes                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 21 mins (100.0%)
+⏱ AI Coding Time: 15 hrs 44 mins (100.0%)
 
-✍️ 4,096 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,499 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,935,136 Input Tokens, 957,824 Output Tokens
+🔤 6,323,889 Input Tokens, 591,372 Output Tokens
 
-💵 $127.75 Estimated AI Cost This Week
+💵 $110.23 Estimated AI Cost This Week
 
-🧠 118 AI Sessions, 480 AI Prompts
+🧠 64 AI Sessions, 333 AI Prompts
 
-GPT                      4,286 lines         ██████████████████░░░░░░░   73.26 % 
-Sonnet                   1,372 lines         ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Opus                     110 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Hermes                   82 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+GPT                      1,694 lines         █████████████░░░░░░░░░░░░   52.01 % 
+Sonnet                   1,371 lines         ███████████░░░░░░░░░░░░░░   42.09 % 
+Opus                     110 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Hermes                   82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,534 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 2,722 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
